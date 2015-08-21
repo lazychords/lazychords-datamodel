@@ -1,6 +1,8 @@
 ![logo](logo.png)
 
 # Back-end lib of the LazyChords project
+
+[![Join the chat at https://gitter.im/lazychords/lazychords-lib](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lazychords/lazychords-lib?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 travis : [![Build Status](https://travis-ci.org/lazychords/lazychords-lib.svg?branch=master)](https://travis-ci.org/lazychords/lazychords-lib)
 jenkis : [![Build Status](http://jenkins.nicolascarion.com/buildStatus/icon?job=LazyChords)](http://jenkins.nicolascarion.com/job/LazyChords/)
 
